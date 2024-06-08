@@ -42,7 +42,7 @@ To install and play Galaxy Shooter, follow these steps:
 
 3. **Build the Game:**
    - In Unity, go to `File > Build Settings`.
-   - Select your target platform (e.g., PC, Mac, Linux, Android, iOS).
+   - Select your target platform (e.g., PC, Mac, Linux).
    - Click on `Build` and follow the prompts to complete the build process.
 
 4. **Run the Game:**

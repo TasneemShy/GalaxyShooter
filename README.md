@@ -54,10 +54,10 @@ To install and play Galaxy Shooter, follow these steps:
 - **All Files:** In case of any issues with the files on GitHub, you can access all the game files on [Google Drive]([link_to_all_files](https://drive.google.com/file/d/1FAVgUPFN48HwTItWKTHULG_na471z6If/view?usp=share_link)).
 
 ## How to Play
-1. **Objective:** Destroy as many enemy ships as possible while avoiding obstacles and enemy fire.
+1. **Objective:** Destroy as many enemy ships as possible.
 2. **Scoring:** Gain points by shooting enemies with your laser. Each enemy destroyed adds to your score.
-3. **Lives:** You have three lives to complete each level. Colliding with enemies or enemy projectiles will reduce your lives.
-4. **Best Score:** Your best score in Single Player mode is recorded and displayed on the main menu.
+3. **Lives:** You have three lives to complete each level. Colliding with enemies or letting them go beyond the screen will reduce your lives.
+4. **Best Score:** Your best score in Single Player mode is recorded and displayed after each round and throughout the game.
 
 ## Game Modes
 1. **Main Menu:**
@@ -73,7 +73,7 @@ To install and play Galaxy Shooter, follow these steps:
 
 ## Controls
 - **Move:** Arrow keys to move your ship, `W/A/S/D` keys for player2 in Co-Op mode.
-- **Shoot:** `Spacebar` to fire lasers. `Shift` keys for player2 in Co-Op mode.
+- **Shoot:** `Spacebar` to fire lasers, `Shift` for player2 in Co-op mode.
 - **Pause:** `P` to pause the game and access the pause menu.
   
 ### Pause Menu

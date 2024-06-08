@@ -88,8 +88,6 @@ When your ship loses all its lives, you will see a "Game Over" text displayed on
 ![Shooting Enemy](Screenshots/Shooting_Enemy.png)
 ![Game Over](Screenshots/Game_Over.png)
 
-*(Include actual screenshots from your game)*
-
 ## Technologies Used
 - **Unity:** Game development platform used for building the game.
 - **C#:** Programming language used for game logic and scripting.

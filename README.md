@@ -50,8 +50,8 @@ To install and play Galaxy Shooter, follow these steps:
 
 ## Sharing Full Game and Files
 - **Development Environment:** Galaxy Shooter was developed using Unity on a Mac.
-- **Full Game:** You can download the full game from [Google Drive]([link_to_full_game](https://drive.google.com/file/d/1SEtANCLLSvZQW-mP97_9dTgh8HZhwWYt/view?usp=share_link)).
-- **All Files:** In case of any issues with the files on GitHub, you can access all the game files on [Google Drive]([link_to_all_files](https://drive.google.com/file/d/1FAVgUPFN48HwTItWKTHULG_na471z6If/view?usp=share_link)).
+- **Full Game:** You can download the full game from Google Drive ([link_to_full_game](https://drive.google.com/file/d/1SEtANCLLSvZQW-mP97_9dTgh8HZhwWYt/view?usp=share_link)).
+- **All Files:** In case of any issues with the files on GitHub, you can access all the game files on Google Drive ([link_to_all_files](https://drive.google.com/file/d/1FAVgUPFN48HwTItWKTHULG_na471z6If/view?usp=share_link)).
 
 ## How to Play
 1. **Objective:** Destroy as many enemy ships as possible.

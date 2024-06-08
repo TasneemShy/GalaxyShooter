@@ -80,9 +80,13 @@ When your ship loses all its lives, you will see a "Game Over" text displayed on
 - **Shield:** Provides temporary protection from enemy collisions and missed enemies, preventing damage to your ship.
 
 ## Screenshots
-![Main Menu](path/to/screenshot1.png)
-![Gameplay](path/to/screenshot2.png)
-![Power-Up](path/to/screenshot3.png)
+![Main Menu](Screenshots/Main_Menu.png)
+![Gameplay](Screenshots/During_Round.png)
+![Single Player](Screenshots/Single_Player.png)
+![Co-op Mode](Screenshots/Co-op_Mode.png)
+![Pause Menu](Screenshots/Pause_Menu.png)
+![Shooting Enemy](Screenshots/Shooting_Enemy.png)
+![Game Over](Screenshots/Game_Over.png)
 
 *(Include actual screenshots from your game)*
 

@@ -64,6 +64,7 @@
 - **Move:** Arrow keys to move your ship, `W/A/S/D` keys for player2 in Co-Op mode.
 - **Shoot:** `Spacebar` to fire lasers, `Shift` for player2 in Co-op mode.
 - **Pause:** `P` to pause the game and access the pause menu.
+- **Exit App:** `Esc` to end the game and exit the application.
   
 ### Pause Menu
 While playing the game, you can pause the action at any time by pressing `P`. This will bring up the pause menu, where you have two options:

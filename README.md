@@ -81,11 +81,12 @@ When your ship loses all its lives, you will see a "Game Over" text displayed on
 
 ## Screenshots
 ![Main Menu](Screenshots/Main_Menu.png)
-![Gameplay](Screenshots/During_Round.png)
 ![Single Player](Screenshots/Single_Player.png)
 ![Co-op Mode](Screenshots/Co-op_Mode.png)
-![Pause Menu](Screenshots/Pause_Menu.png)
+![Gameplay](Screenshots/During_Round.png)
+![Gameplay2](Screenshots/During_Round2.png)
 ![Shooting Enemy](Screenshots/Shooting_Enemy.png)
+![Pause Menu](Screenshots/Pause_Menu.png)
 ![Game Over](Screenshots/Game_Over.png)
 
 ## Technologies Used

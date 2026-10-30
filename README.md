@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [Sharing Full Game and Files](#Sharing-Full-Game-and-Files)
+- [Sharing Full Game and Files](#sharing-full-game-and-files)
 - [How to Play](#how-to-play)
 - [Game Modes](#game-modes)
 - [Controls](#controls)
@@ -12,7 +12,6 @@
 - [Power-Ups](#power-ups)
 - [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
-- [Sharing Full Game and Files](#sharing-full-game-and-files)
 - [Credits](#credits)
 
 ## Introduction
@@ -80,14 +79,12 @@ When your ship loses all its lives, you will see a "Game Over" text displayed on
 - **Shield:** Provides temporary protection from enemy collisions and missed enemies, preventing damage to your ship.
 
 ## Screenshots
-![Main Menu](Screenshots/Main_Menu.png)
-![Single Player](Screenshots/Single_Player.png)
-![Co-op Mode](Screenshots/Co-op_Mode.png)
-![Gameplay](Screenshots/During_Round.png)
-![Gameplay2](Screenshots/During_Round2.png)
-![Shooting Enemy](Screenshots/Shooting_Enemy.png)
-![Pause Menu](Screenshots/Pause_Menu.png)
-![Game Over](Screenshots/Game_Over.png)
+| | |
+|---|---|
+| ![Main Menu](Screenshots/Main_Menu.png) | ![Single Player](Screenshots/Single_Player.png) |
+| ![Co-op Mode](Screenshots/Co-op_Mode.png) | ![Gameplay](Screenshots/During_Round.png) |
+| ![Gameplay 2](Screenshots/During_Round2.png) | ![Shooting Enemy](Screenshots/Shooting_Enemy.png) |
+| ![Pause Menu](Screenshots/Pause_Menu.png) | ![Game Over](Screenshots/Game_Over.png) |
 
 ## Technologies Used
 - **Unity:** Game development platform used for building the game.
